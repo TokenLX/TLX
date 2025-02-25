@@ -1,2 +1,0 @@
-# TLX
-Blockchain games
